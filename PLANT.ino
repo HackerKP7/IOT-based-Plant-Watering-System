@@ -1,3 +1,6 @@
+// Author -- Kalpit Prabhu--
+//Project -- Smart IOT based plant watering system using ESP32
+
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
