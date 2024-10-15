@@ -1,6 +1,5 @@
-//Leon Menezes -  60001200078
-//Kalpit Prabhu - 60001200080
-//Daksh Panchal - 60001200088
+// Author -- Kalpit Prabhu--
+//Project -- Smart IOT based plant watering system using ESP32
 
 #define BLYNK_PRINT Serial
 #include <Wire.h>
