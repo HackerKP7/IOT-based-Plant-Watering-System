@@ -34,4 +34,6 @@ Soil moisture sensor ---(2 pins)----> LM393 comparator module ---(3 pins[A0,GND,
                                                                                                                   |
                                                                                                         (external power supply 12v)
                                                                                                             
-We are using NTP server to extract real world time 
+We are using NTP server to extract real world time data
+Download wifi.h , BlynkSimpleEsp32.h, time.h, Wire.h, Adafruit_GFX.h and Adafruit_SSD1306.h libraries
+
